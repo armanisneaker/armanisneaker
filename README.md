@@ -19,4 +19,4 @@ Certifications:
 - Microsoft Certified: Azure Fundamentals
 - Certified SCRUM SFC
 
-I am dedicated to leveraging my extensive project management skills and technical expertise to lead projects that drive innovation, challenge the status quo, and deliver significant advancements in technology and industry connectivity. Always eager to meet new professionals and exchange ideas, feel free to reach out to me on LinkedIn or email me at [your.email@example.com]. I look forward to connecting with you!
+I am dedicated to leveraging my extensive project management skills and technical expertise to lead projects that drive innovation, challenge the status quo, and deliver significant advancements in technology and industry connectivity. Always eager to meet new professionals and exchange ideas, feel free to reach out to me on LinkedIn or email me at damian.szymanek.pl@gmail.com. I look forward to connecting with you!
