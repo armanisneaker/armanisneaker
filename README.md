@@ -1,11 +1,22 @@
-👋 Hi there, I'm Damian Szymanek!
+As a seasoned Project Manager, I bring a proven track record of leading diverse, high-impact projects in the technology, space, and engineering sectors. My ability to bridge technical project requirements with strategic business objectives ensures successful outcomes that exceed expectations in functionality, efficiency, and market relevance.
 
-🎓 I'm a 3rd year IT student at Czestochowa University of Technology and the proud leader of the PCz Rover Team. We're a passionate group of scientists building Martian rovers for the University Rover Challenge. 🚀
+Key Skills:
+- Project Lifecycle Management: Expert in overseeing projects from inception to delivery, achieving quality, schedule, and budget targets.
+- Agile Methodologies: Proficient in SCRUM and KANBAN, using tools like JIRA to enhance project agility and stakeholder satisfaction.
+- Team Leadership: Successful in leading multidisciplinary teams, fostering an environment of continuous improvement and innovation.
+- Stakeholder Engagement: Skilled in aligning project objectives with business goals, managing expectations, and securing stakeholder support.
+- Technical Proficiency: Hands-on experience in software development and engineering, utilizing languages and tools such as C++, Python, OpenCV, and Qt Framework.
+- Resource and Risk Management: Adept at managing resources efficiently and mitigating risks to ensure project continuity and success.
+- Documentation and Reporting: Strong capabilities in creating detailed documentation and reports to ensure transparency and effective communication.
 
-🏆 This year, we achieved an impressive 11th place out of 104 teams from all around the world! 🌍
+Achievements:
+- Successfully delivered complex projects on schedule, including a Scandinavian segment of a multinational space industry networking platform for JoinThe.Space.
+- Led the development of a competitive Martian rover for the URC Utah, USA competition, achieving 11th place out of 104 teams worldwide.
+- Contributed to a 12% cost reduction in ventilation device production by leading efficient design and material sourcing strategies.
 
-💻 I'm a programmer with experience in C++, Python, and JavaScript. I've developed a control panel for our Martian rover, which we used to control the entire rover in this year's competition.
+Certifications:
+- Google Project Management Professional Certificate
+- Microsoft Certified: Azure Fundamentals
+- Certified SCRUM SFC
 
-👨‍💼 As a leader, I believe in leading from the front and working closely with my team members. I'm also a confident speaker and excel at teamwork, organization, micromanagement, and building relationships with firms for sponsorship and barter agreements.
-
-🔭 Feel free to check out my repositories to see some of the projects I've worked on. If you have any questions or would like to collaborate on a project, don't hesitate to get in touch!
+I am dedicated to leveraging my extensive project management skills and technical expertise to lead projects that drive innovation, challenge the status quo, and deliver significant advancements in technology and industry connectivity. Always eager to meet new professionals and exchange ideas, feel free to reach out to me on LinkedIn or email me at [your.email@example.com]. I look forward to connecting with you!
